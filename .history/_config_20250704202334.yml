@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Zilin Wang"
   avatar : "/assets/images/ZilinWang.jpg"
-  bio    : "GOGOGO!"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
